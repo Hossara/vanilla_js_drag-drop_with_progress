@@ -1,6 +1,8 @@
 # Vanilla.js and php drag & drop file handler with progress bar
 Developed by: Hossein Araghi
 
+![Video](./demo.gif)
+
 #### If you want to donate me, [buy me a coffee 😉](https://coffeebede.ir/hossara)
 
 - **Contact me**
